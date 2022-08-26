@@ -1,6 +1,6 @@
 # XMRig
 
-Forked from https://github.com/xmrig/xmrig.git
+Forked from https://github.com/xmrig/xmrig.git for training purpouses, dont use it...!!!
 
 XMRig is a high performance, open source, cross platform RandomX, KawPow, CryptoNight, AstroBWT and [GhostRider](https://github.com/xmrig/xmrig/tree/master/src/crypto/ghostrider#readme) unified CPU/GPU miner and [RandomX benchmark](https://xmrig.com/benchmark). Official binaries are available for Windows, Linux, macOS and FreeBSD.
 
@@ -16,7 +16,7 @@ The preferred way to configure the miner is the [JSON config file](https://xmrig
 * **[Workers](http://workers.xmrig.info)** helps manage your miners via HTTP API.
 
 ## Developers
-* **[xmrig](https://github.com/mrn-77)**
+* **[mrn-77](https://github.com/mrn-77)**
 
 ## Contacts
 * Contact me through GitHub
